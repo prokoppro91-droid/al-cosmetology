@@ -1,0 +1,11 @@
+:HL["/al-cosmetology/_next/static/chunks/2gf9z2dk1r0v_.css","style"]
+:HL["/al-cosmetology/_next/static/media/01e4147cff8141ee-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/al-cosmetology/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/al-cosmetology/_next/static/media/b0947914c9718a1e-s.p.1xjn85gt7t6qs.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/al-cosmetology/_next/static/media/d3fe2f289711ac3f-s.p.1l2zhvq5eocqf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/al-cosmetology/_next/static/chunks/3jlo4n9jditt5.css","style"]
+:HL["/al-cosmetology/_next/static/chunks/3g2tb2v0goahj.css","style"]
+:HL["/al-cosmetology/scene/bg-1-1536.avif","image",{"type":"image/avif","fetchPriority":"high","imageSrcSet":"/al-cosmetology/scene/bg-1-768.avif 768w, /al-cosmetology/scene/bg-1-1024.avif 1024w, /al-cosmetology/scene/bg-1-1536.avif 1536w","imageSizes":"(max-aspect-ratio: 1/1) and (max-width: 767px) and (max-height: 780px) 560px, (max-aspect-ratio: 1/1) and (max-width: 767px) and (max-height: 880px) 900px, (max-aspect-ratio: 1/1) and (max-width: 767px) calc(300vw - 96px), (max-aspect-ratio: 1/1) and (max-height: 960px) 1060px, (max-aspect-ratio: 1/1) calc(329vh - 2040px), (min-aspect-ratio: 3/2) 102vw, 150vh"}]
+:HL["/al-cosmetology/scene/portrait/anna-long-900.avif","image",{"type":"image/avif","fetchPriority":"high","imageSrcSet":"/al-cosmetology/scene/portrait/anna-long-600.avif 600w, /al-cosmetology/scene/portrait/anna-long-900.avif 900w, /al-cosmetology/scene/portrait/anna-long-1200.avif 1200w, /al-cosmetology/scene/portrait/anna-long-1600.avif 1600w","imageSizes":"(max-aspect-ratio: 1/1) 94vw, (min-aspect-ratio: 4/3) 59vh, 44vw"}]
+:HL["/al-cosmetology/scene/bg-1-blur-256.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"zl8KMvSY8aKSkgkj7C_Ol"}
